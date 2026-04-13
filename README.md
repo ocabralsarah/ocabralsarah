@@ -2,10 +2,10 @@
 
 # Hi there👋🏾 I'm Sarah Cabral ✨
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=osarahcabral&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-<a href="https://github.com/osarahcabral"><img src="https://img.shields.io/github/followers/osarahcabral?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
-<a href="mailto:osarahcabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/osarahcabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img src="https://img.shields.io/static/v1?label=Overview&message=ocabralsarah&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<a href="https://github.com/ocabralsarah"><img src="https://img.shields.io/github/followers/ocabralsarah?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
+<a href="mailto:ocabralsarah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ocabralsarah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## 👩🏾‍💻 About me
 
@@ -79,10 +79,10 @@ Ago 2024 - Ago 2025
 
 ## 📊 Github Contributions
 
-![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/0-profile-details.svg)
-![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/3-stats.svg)
-![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/osarahcabral/osarahcabral/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
+![](https://raw.githubusercontent.com/ocabralsarah/ocabralsarah/main/profile-summary-card-output/kacho_ga/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ocabralsarah/ocabralsarah/main/profile-summary-card-output/kacho_ga/3-stats.svg)
+![](https://raw.githubusercontent.com/ocabralsarah/ocabralsarah/main/profile-summary-card-output/kacho_ga/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ocabralsarah/ocabralsarah/main/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ocabralsarah/ocabralsarah/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:bf4a3f,100:bf4a3f&height=120&section=footer"/>
